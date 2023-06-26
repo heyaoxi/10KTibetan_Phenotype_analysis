@@ -1,4 +1,4 @@
-#The codes for analyzing the phenotypic data of 11,880 highlanders \n
+#The codes for analyzing the phenotypic data of 11,880 highlanders
 00.age.filtering.sh  # Age filtering
 01.split.att2phen.rinfo.sh  # make splited files by phenotypes
 02.count.sh  # counting data of each phenotype
